@@ -4,8 +4,8 @@ Thiết bị dùng để xem dự báo thời tiết tại các thành phố, c�
 Các bạn có thể thiết kế PCB để phù hợp với nhu cầu, cũng như kích thước thông qua các chân được khai báo trong code cũng như schematic từ file báo cáo, hoặc file Gerber PCB của nhóm sẽ được cập nhật sau.
 -------------------------------------------------------------------------------------------------------------------
 Main role:
-  *Hardware, Sensor: Lương Lê Công Nhẫn
-  *Software, Tester: Võ Trọng Hiếu
-  *GUI Design, LCD Touch: Nguyễn Minh Nhật
+  Hardware: Lương Lê Công Nhẫn
+  Software: Võ Trọng Hiếu
+  GUI Design, Tester: Nguyễn Minh Nhật
 -------------------------------------------------------------------------------------------------------------------
 Chi tiết xin liên hệ: 22520450@gm.uit.edu.com
